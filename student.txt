@@ -1,0 +1,9 @@
+Student name: Nyamekye Daniel
+Student number: 722018
+Student class: IT 1F
+GitHub Repository: https://github.com/DanielNyamekye/WEBMARKUP.git
+GitHub Pages URL: https://danielnyamekye.github.io/WEBMARKUP/index.html
+
+
+
+
